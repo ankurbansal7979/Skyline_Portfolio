@@ -175,13 +175,28 @@ const Contact = () => {
             className="bg-white rounded-xl shadow-md overflow-hidden"
           >
             {/* Replace with your actual map embed code */}
-            <div className="w-full h-96 bg-slate-200 flex items-center justify-center">
-              <div className="text-center">
-                <MapPin className="w-12 h-12 text-primary-600 mx-auto mb-3" />
-                <p className="text-slate-700">123 Immigration Street, Suite 101, Toronto, ON, Canada</p>
-                <p className="text-primary-700 mt-4">Map embed would appear here</p>
-              </div>
-            </div>
+          <div className="w-full h-auto bg-slate-200 flex items-center justify-center py-10">
+  <div className="text-center max-w-4xl">
+    <MapPin className="w-12 h-12 text-primary-600 mx-auto mb-3" />
+    <p className="text-slate-700 mb-6">
+      123 Immigration Street, Suite 101, Toronto, ON, Canada
+    </p>
+    
+    {/* Map Embed */}
+    <div className="w-full aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3471.29594155598!2d75.05422427453217!3d29.536874742442528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39114dbbf2cf71ad%3A0xa26f4391c8add6b6!2sThe%20Skyline%20Immigration!5e0!3m2!1sen!2sin!4v1749206824482!5m2!1sen!2sin"
+        width="100%"
+        height="100%"
+        style={{ border: 0 }}
+        allowFullScreen=""
+        loading="lazy"
+        referrerPolicy="no-referrer-when-downgrade"
+      ></iframe>
+    </div>
+  </div>
+</div>
+
           </motion.div>
         </div>
       </section>

@@ -12,7 +12,7 @@ const About = () => {
       name: "Happy Brar",
       role: "Founder & Immigration Consultant",
       bio: "With over 10 years of experience in immigration consulting, Happy has helped hundreds of clients achieve their dreams of studying and living abroad.",
-      image: "/all1.jpeg",
+      image: "/owner.jpg",
       contact: {
         email: "happy@theskylineedu.com",
         phone: "+1 (123) 456-7890",
@@ -23,7 +23,7 @@ const About = () => {
       name: "Charanveer Singh Gill",
       role: "Co-Founder & Education Specialist",
       bio: "Charanveer specializes in educational consulting, helping students find the right institutions and programs that align with their career goals.",
-      image: "/all.jpeg",
+      image: "/owner1.jpg",
       contact: {
         email: "charanveer@theskylineedu.com",
         phone: "+1 (123) 456-7891",
