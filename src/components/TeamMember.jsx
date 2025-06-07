@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Phone, Linkedin } from 'lucide-react';
+import { Mail, Phone, Instagram } from 'lucide-react';
 
 const TeamMember = ({ 
   name, 
@@ -56,15 +56,15 @@ const TeamMember = ({
               </a>
             )}
             
-            {contact.linkedin && (
+            {contact.Instagram && (
               <a 
-                href={contact.linkedin}
+                href={contact.Instagram}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-sm text-slate-600 hover:text-primary-700"
               >
-                <Linkedin className="w-4 h-4 mr-1" />
-                LinkedIn
+                <Instagram className="w-4 h-4 mr-1" />
+                Instagram
               </a>
             )}
           </div>

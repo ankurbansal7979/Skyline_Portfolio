@@ -9,21 +9,21 @@ const Gallery = () => {
     {
       id: 1,
       title: "Student Visa Approval",
-      category: "Success Stories",
+      category: "Education",
       image: "gallery1.jpg",
       description: "One of our students celebrating their visa approval for studies in Canada"
     },
     {
       id: 2,
       title: "Work Permit Success",
-      category: "Success Stories",
+      category: "Education",
       image: "gallery2.jpg",
       description: "Client receiving their approved work permit for Australia"
     },
     {
       id: 3,
       title: "Family Reunification",
-      category: "Success Stories",
+      category: "Education",
       image: "gallery3.jpg",
       description: "A family reunited after successful sponsorship application"
     },
@@ -31,13 +31,13 @@ const Gallery = () => {
       id: 4,
       title: "Graduation Ceremony",
       category: "Education",
-      image: "gallery3.jpg",
+      image: "score1.jpeg",
       description: "International students celebrating their graduation"
     },
     {
       id: 5,
       title: "Business Immigration",
-      category: "Business",
+      category: "Success Stories",
       image: "gallery4.jpg",
       description: "Entrepreneur client launching their business after successful immigration"
     },
@@ -51,14 +51,14 @@ const Gallery = () => {
     {
       id: 7,
       title: "University Campus",
-      category: "Education",
-      image: "gallery6.jpg",
+      category: "Success Stories",
+      image: "gallery6.jpeg",
       description: "A prestigious university campus where our clients study"
     },
     {
       id: 8,
       title: "Client Consultation",
-      category: "Services",
+      category: "Success Stories",
       image: "gallery7.jpg",
       description: "Our consultants meeting with clients"
     },
@@ -73,22 +73,21 @@ const Gallery = () => {
       id: 10,
       title: "Team Workshop",
       category: "Events",
-      image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "event1.jpeg",
       description: "Our team during an immigration workshop"
     },
     {
       id: 11,
       title: "New Beginnings",
       category: "Success Stories",
-
-      image: "mai.jpg",
+      image: "study3.jpeg",
       description: "Client moving into their new home abroad"
     },
     {
       id: 12,
       title: "Document Preparation",
-      category: "Services",
-      image: "mai.jpg",
+      category: "Success Stories",
+      image: "study6.jpeg",
       description: "Preparing immigration documents for submission"
     }
   ];

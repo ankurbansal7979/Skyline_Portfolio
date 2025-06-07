@@ -11,12 +11,12 @@ const About = () => {
     {
       name: "Happy Brar",
       role: "Founder & Immigration Consultant",
-      bio: "With over 10 years of experience in immigration consulting, Happy has helped hundreds of clients achieve their dreams of studying and living abroad.",
-      image: "/owner.jpg",
+      bio: "With over 5 years of experience in immigration consulting, Happy has helped hundreds of clients achieve their dreams of studying and living abroad.",
+      image: "/happy.png",
       contact: {
-        email: "happy@theskylineedu.com",
-        phone: "+1 (123) 456-7890",
-        linkedin: "https://linkedin.com/"
+        email: "theskyline0017@gmail.com",
+        phone: "+91 76650-00017",
+        Instagram: "https://www.instagram.com/happybrar7?igsh=cWd0bnl5OWtwM3F6"
       }
     },
     {
@@ -25,9 +25,9 @@ const About = () => {
       bio: "Charanveer specializes in educational consulting, helping students find the right institutions and programs that align with their career goals.",
       image: "/owner1.jpg",
       contact: {
-        email: "charanveer@theskylineedu.com",
-        phone: "+1 (123) 456-7891",
-        linkedin: "https://linkedin.com/"
+        email: "theskyline0017@gmail.com",
+        phone: "+91 73780-00017",
+        Instagram: "https://www.instagram.com/charanveer_gill?igsh=NnRibzF1N2hkNGxo"
       }
     }
   ];
@@ -86,7 +86,7 @@ const About = () => {
               <h2 className="text-3xl font-bold mb-6 text-slate-800">Our Story</h2>
               
               <p className="text-slate-600 mb-4">
-                The Skyline Education and Immigration was founded in 2018 by Happy Brar and Charanveer Singh Gill with a simple mission: to help people achieve their dreams of studying, working, and living abroad.
+                The Skyline Education and Immigration was founded in 2023 by Happy Brar and Charanveer Singh Gill with a simple mission: to help people achieve their dreams of studying, working, and living abroad.
               </p>
               
               <p className="text-slate-600 mb-4">

@@ -40,10 +40,10 @@ const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <NavLink to="/" className="flex items-center space-x-2">
-            <Globe className="w-8 h-8 text-primary-700" />
+            <img src='public\logo 234.jpg' className="w-18 h-14 text-primary-700" />
             <div className="flex flex-col">
-              <span className="text-lg font-bold text-primary-700">The Skyline</span>
-              <span className="text-xs text-primary-600">Education & Immigration</span>
+              <span className="text-xl font-bold text-primary-700">The Skyline</span>
+              <span className="text-s text-primary-600">Education & Immigration</span>
             </div>
           </NavLink>
 

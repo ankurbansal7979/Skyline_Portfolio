@@ -281,9 +281,9 @@ const Services = () => {
               { country: "Australia", flag: "🇦🇺", imageUrl: "https://images.pexels.com/photos/1878293/pexels-photo-1878293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
               { country: "United Kingdom", flag: "🇬🇧", imageUrl: "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
               { country: "United States", flag: "🇺🇸", imageUrl: "https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
-              { country: "New Zealand", flag: "🇳🇿", imageUrl: "https://images.pexels.com/photos/724963/pexels-photo-724963.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+              { country: "New Zealand", flag: "🇳🇿", imageUrl: "https://etimg.etb2bimg.com/photo/93264493.cms" },
               { country: "Germany", flag: "🇩🇪", imageUrl: "https://images.pexels.com/photos/109629/pexels-photo-109629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
-              { country: "Ireland", flag: "🇮🇪", imageUrl: "https://images.pexels.com/photos/831895/pexels-photo-831895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+              { country: "Cyprus", flag: "CY", imageUrl: "https://e498h76z5mp.exactdn.com/wp-content/uploads/2021/09/cyprus-scaled.jpg" },
               { country: "Singapore", flag: "🇸🇬", imageUrl: "mai.jpg" }
             ].map((country, index) => (
               <motion.div

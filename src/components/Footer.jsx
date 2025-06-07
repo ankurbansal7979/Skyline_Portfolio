@@ -21,7 +21,7 @@ const Footer = () => {
           {/* About Section */}
           <div>
             <div className="flex items-center mb-4 space-x-2">
-              <Globe className="w-6 h-6" />
+              <img src='public\logo.png' className="w-18 h-16" />
               <div>
                 <h3 className="text-xl font-bold">The Skyline</h3>
                 <p className="text-xs text-primary-200">Education & Immigration</p>
@@ -31,18 +31,18 @@ const Footer = () => {
               Professional immigration and education consulting services helping you achieve your dreams abroad.
             </p>
             <div className="flex space-x-4">
-              <a href="https://facebook.com" className="text-primary-200 hover:text-white transition-colors" aria-label="Facebook">
+              <a href="https://www.facebook.com/share/1AZNrMJF1V/" className="text-primary-200 hover:text-white transition-colors" aria-label="Facebook">
                 <Facebook className="w-5 h-5" />
               </a>
-              <a href="https://instagram.com" className="text-primary-200 hover:text-white transition-colors" aria-label="Instagram">
+              <a href="https://www.instagram.com/the_skyline_sirsa?igsh=MXVmYmJmcTAxMGxsdg==" className="text-primary-200 hover:text-white transition-colors" aria-label="Instagram">
                 <Instagram className="w-5 h-5" />
               </a>
-              <a href="https://twitter.com" className="text-primary-200 hover:text-white transition-colors" aria-label="Twitter">
+              {/* <a href="https://twitter.com" className="text-primary-200 hover:text-white transition-colors" aria-label="Twitter">
                 <Twitter className="w-5 h-5" />
               </a>
               <a href="https://linkedin.com" className="text-primary-200 hover:text-white transition-colors" aria-label="LinkedIn">
                 <Linkedin className="w-5 h-5" />
-              </a>
+              </a> */}
             </div>
           </div>
 

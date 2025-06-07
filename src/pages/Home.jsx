@@ -44,7 +44,7 @@ const Home= () => {
   
   const testimonials = [
     {
-      name: "Rajiv Patel",
+      name: "Yuvraj Sandhu",
       location: "Study Visa to Canada",
       testimonial: "The team at Skyline Education helped me secure my student visa to Canada. Their guidance throughout the process was invaluable, and I'm now studying at my dream university!",
       image: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

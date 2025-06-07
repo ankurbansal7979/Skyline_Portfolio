@@ -59,8 +59,9 @@ const Contact = () => {
                     <div className="ml-4">
                       <h4 className="text-lg font-semibold text-slate-800">Office Location</h4>
                       <p className="text-slate-600 mt-1">
-                        123 Immigration Street, Suite 101<br />
-                        Toronto, ON, Canada
+                        Opp Sardar Ji Malai Chaap Wale, Near Kisan Chowk<br />
+                        Huda Road, Sirsa-125055, Haryana<br/>
+                        KARNAL | MISSISSUAGA
                       </p>
                     </div>
                   </div>
@@ -91,7 +92,8 @@ const Contact = () => {
                       <h4 className="text-lg font-semibold text-slate-800">Phone Number</h4>
                       <p className="text-slate-600 mt-1">
                         <a href="tel:+11234567890" className="text-primary-700 hover:underline">
-                          +1 (123) 456-7890
+                          +91 76650-00017<br/>
+                          +91 73780-00017
                         </a>
                       </p>
                     </div>
@@ -106,7 +108,7 @@ const Contact = () => {
                     <div className="ml-4">
                       <h4 className="text-lg font-semibold text-slate-800">Office Hours</h4>
                       <div className="text-slate-600 mt-1">
-                        <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
+                        <p>Monday - Friday: 10:00 AM - 6:00 PM</p>
                         <p>Saturday: 10:00 AM - 2:00 PM</p>
                         <p>Sunday: Closed</p>
                       </div>

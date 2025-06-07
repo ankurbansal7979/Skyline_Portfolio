@@ -40,7 +40,7 @@ const Hero = () => {
               className="space-y-6"
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Your Journey to <span className="text-primary-200">Global Opportunities</span> Starts Here
+                Your Journey to <span className="text-primary-200">Study Abroad</span> Starts Here
               </h1>
               
               <p className="text-lg text-primary-100 max-w-lg">
@@ -72,14 +72,14 @@ const Hero = () => {
             >
               <div className="bg-white p-4 rounded-2xl shadow-xl overflow-hidden">
                 <img 
-                  src="/all.jpeg" 
+                  src="/all1.jpeg" 
                   alt="The Skyline team" 
-                  className="rounded-lg w-full h-auto"
+                  className="rounded-lg w-full h-96"
                 />
               </div>
               
               {/* Floating badge elements */}
-              <motion.div 
+              {/* <motion.div 
                 initial={{ x: -20, opacity: 0 }}
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ delay: 0.6, duration: 0.5 }}
@@ -103,7 +103,7 @@ const Hero = () => {
                   alt="PTE Score" 
                   className="w-16 h-16 object-cover rounded"
                 />
-              </motion.div>
+              </motion.div> */}
             </motion.div>
           </div>
         </div>
