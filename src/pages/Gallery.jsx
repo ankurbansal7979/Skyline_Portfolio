@@ -8,28 +8,28 @@ const Gallery = () => {
   const galleryItems = [
     {
       id: 1,
-      title: "Student Visa Approval",
+      title: "PTE Score",
       category: "Education",
       image: "gallery1.jpg",
       description: "One of our students celebrating their visa approval for studies in Canada"
     },
     {
       id: 2,
-      title: "Work Permit Success",
+      title: "PTE Score",
       category: "Education",
       image: "gallery2.jpg",
       description: "Client receiving their approved work permit for Australia"
     },
     {
       id: 3,
-      title: "Family Reunification",
+      title: "PTE Score",
       category: "Education",
       image: "gallery3.jpg",
       description: "A family reunited after successful sponsorship application"
     },
     {
       id: 4,
-      title: "Graduation Ceremony",
+      title: "PTE Score",
       category: "Education",
       image: "score1.jpeg",
       description: "International students celebrating their graduation"
@@ -43,7 +43,7 @@ const Gallery = () => {
     },
     {
       id: 6,
-      title: "PR Card Approval",
+      title: "New Beginnings",
       category: "Success Stories",
       image: "gallery5.jpg",
       description: "Client receiving their Permanent Resident card"
@@ -85,10 +85,80 @@ const Gallery = () => {
     },
     {
       id: 12,
-      title: "Document Preparation",
+      title: "Visa Stamping",
       category: "Success Stories",
       image: "study6.jpeg",
       description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 13,
+      title: "Visa Stamping",
+      category: "Success Stories",
+      image: "Novanpreet.jpeg",
+      description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 14,
+      title: "Visa Stamping",
+      category: "Success Stories",
+      image: "gurnoor.jpeg",
+      description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 15,
+      title: "Visa Stamping",
+      category: "Success Stories",
+      image: "jashanpreet.jpeg",
+      description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 16,
+      title: "Visa Stamping",
+      category: "Success Stories",
+      image: "laddu.jpeg",
+      description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 17,
+      title: "Visa Stamping",
+      category: "Success Stories",
+      image: "navjot.jpeg",
+      description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 18,
+      title: "Visa Stamping",
+      category: "Success Stories",
+      image: "sonepreet.jpeg",
+      description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 19,
+      title: "Visa Stamping",
+      category: "Success Stories",
+      image: "sukhpal.jpeg",
+      description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 20,
+      title: "Visa Stamping",
+      category: "Success Stories",
+      image: "yuvraj visa.jpeg",
+      description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 20,
+      title: "PTE Score",
+      category: "Education",
+      image: "score5.jpeg",
+      description: "Preparing immigration documents for submission"
+    },
+    {
+      id: 21,
+      title: "PTE Score",
+      category: "Education",
+      image: "jashan score.jpeg",
+      description: "Client receiving their approved work permit for Australia"
     }
   ];
 

@@ -47,18 +47,18 @@ const Home= () => {
       name: "Yuvraj Sandhu",
       location: "Study Visa to Canada",
       testimonial: "The team at Skyline Education helped me secure my student visa to Canada. Their guidance throughout the process was invaluable, and I'm now studying at my dream university!",
-      image: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      image: "yuvraj.png"
     },
     {
-      name: "Sarah Chen",
-      location: "Work Permit to Australia",
-      testimonial: "I was struggling with my work permit application until I found Skyline. Their expertise made the process smooth, and I received my approval much faster than expected.",
+      name: "Novanpreet Kaur",
+      location: "Study Visa to Australia",
+      testimonial: "I was struggling with my study visa application until I found Skyline. Their expertise made the process smooth, and I received my approval much faster than expected.",
       image: "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-      name: "Mohammed Al-Farsi",
-      location: "PR for Family",
-      testimonial: "Happy and Charanveer guided us through our family's permanent residency process. Their attention to detail and personalized support made all the difference.",
+      name: "Iqbal Singh",
+      location: "Visitor Visa to Canada",
+      testimonial: "My experience with The Skyline Education and Immigration was excellent. I applied for Canada Visitor visa. The services provided here is quick and accurate. The staff is also very humble.",
       image: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
   ];
@@ -123,9 +123,9 @@ const Home= () => {
               className="lg:w-1/2"
             >
               <img 
-                src="https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                src="office 2.jpeg" 
                 alt="Immigration specialists meeting with clients" 
-                className="rounded-xl shadow-lg"
+                className="rounded-xl shadow-lg w-full h-96"
               />
             </motion.div>
             
@@ -222,7 +222,7 @@ const Home= () => {
               { country: "United States", flag: "🇺🇸" },
               { country: "New Zealand", flag: "🇳🇿" },
               { country: "Germany", flag: "🇩🇪" },
-              { country: "Ireland", flag: "🇮🇪" },
+              { country: "Cyprus", flag: "cʏ" },
               { country: "Singapore", flag: "🇸🇬" }
             ].map((item, index) => (
               <motion.div
