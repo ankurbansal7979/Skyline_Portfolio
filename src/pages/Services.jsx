@@ -284,7 +284,7 @@ const Services = () => {
               { country: "New Zealand", flag: "🇳🇿", imageUrl: "https://images.pexels.com/photos/724963/pexels-photo-724963.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
               { country: "Germany", flag: "🇩🇪", imageUrl: "https://images.pexels.com/photos/109629/pexels-photo-109629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
               { country: "Ireland", flag: "🇮🇪", imageUrl: "https://images.pexels.com/photos/831895/pexels-photo-831895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
-              { country: "Singapore", flag: "🇸🇬", imageUrl: "https://images.pexels.com/photos/1842332/pexels-photo-1842332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" }
+              { country: "Singapore", flag: "🇸🇬", imageUrl: "mai.jpg" }
             ].map((country, index) => (
               <motion.div
                 key={index}
