@@ -36,35 +36,35 @@ const Gallery = () => {
     },
     {
       id: 5,
-      title: "Business Immigration",
+      title: "Canada Visitor Visa",
       category: "Success Stories",
       image: "gallery4.jpg",
       description: "Entrepreneur client launching their business after successful immigration"
     },
     {
       id: 6,
-      title: "New Beginnings",
+      title: "Canada Study Visa",
       category: "Success Stories",
       image: "gallery5.jpg",
       description: "Client receiving their Permanent Resident card"
     },
     {
       id: 7,
-      title: "University Campus",
+      title: "Canada Study Visa",
       category: "Success Stories",
       image: "gallery6.jpeg",
       description: "A prestigious university campus where our clients study"
     },
     {
       id: 8,
-      title: "Client Consultation",
+      title: "Canada Visitor Visa",
       category: "Success Stories",
       image: "gallery7.jpg",
       description: "Our consultants meeting with clients"
     },
     {
       id: 9,
-      title: "Visa Stamping",
+      title: "Canada Visitor Visa",
       category: "Success Stories",
       image: "gallery8.jpg",
       description: "Close-up of a visa stamp in a passport"
@@ -78,72 +78,72 @@ const Gallery = () => {
     },
     {
       id: 11,
-      title: "New Beginnings",
+      title: "Canada Study Visa",
       category: "Success Stories",
       image: "study3.jpeg",
       description: "Client moving into their new home abroad"
     },
     {
       id: 12,
-      title: "Visa Stamping",
+      title: "Canada Study Visa",
       category: "Success Stories",
       image: "study6.jpeg",
       description: "Preparing immigration documents for submission"
     },
     {
       id: 13,
-      title: "Visa Stamping",
+      title: "Australia Study Visa",
       category: "Success Stories",
       image: "Novanpreet.jpeg",
       description: "Preparing immigration documents for submission"
     },
     {
       id: 14,
-      title: "Visa Stamping",
+      title: "Canada Study Visa",
       category: "Success Stories",
       image: "gurnoor.jpeg",
       description: "Preparing immigration documents for submission"
     },
     {
       id: 15,
-      title: "Visa Stamping",
+      title: "Canada Study Visa",
       category: "Success Stories",
       image: "jashanpreet.jpeg",
       description: "Preparing immigration documents for submission"
     },
     {
       id: 16,
-      title: "Visa Stamping",
+      title: "Canada Work Visa",
       category: "Success Stories",
       image: "laddu.jpeg",
       description: "Preparing immigration documents for submission"
     },
     {
       id: 17,
-      title: "Visa Stamping",
+      title: "Canada Study Visa",
       category: "Success Stories",
       image: "navjot.jpeg",
       description: "Preparing immigration documents for submission"
     },
     {
       id: 18,
-      title: "Visa Stamping",
+      title: "UK Study Visa",
       category: "Success Stories",
       image: "sonepreet.jpeg",
       description: "Preparing immigration documents for submission"
     },
     {
       id: 19,
-      title: "Visa Stamping",
+      title: "Canada Study Visa",
       category: "Success Stories",
       image: "sukhpal.jpeg",
       description: "Preparing immigration documents for submission"
     },
     {
       id: 20,
-      title: "Visa Stamping",
+      title: "Canada Study & Visitor Visa",
       category: "Success Stories",
-      image: "yuvraj visa.jpeg",
+      image: "yuvraj.jpeg",
       description: "Preparing immigration documents for submission"
     },
     {
@@ -159,6 +159,118 @@ const Gallery = () => {
       category: "Education",
       image: "jashan score.jpeg",
       description: "Client receiving their approved work permit for Australia"
+    },
+    {
+      id: 22,
+      title: "IELTS Score",
+      category: "Education",
+      image: "score6.webp",
+      description: "Client receiving their approved work permit for Australia"
+    },
+    {
+      id: 23,
+      title: "PTE Score",
+      category: "Education",
+      image: "score7.webp",
+      description: "Client receiving their approved work permit for Australia"
+    },
+    {
+      id: 24,
+      title: "PTE Score",
+      category: "Education",
+      image: "score8.jpg",
+      description: "Client receiving their approved work permit for Australia"
+    },
+    {
+      id: 25,
+      title: "PTE Score",
+      category: "Education",
+      image: "score9.jpg",
+      description: "Client receiving their approved work permit for Australia"
+    },
+    {
+      id: 26,
+      title: "PTE Score",
+      category: "Education",
+      image: "score0.webp",
+      description: "Client receiving their approved work permit for Australia"
+    },
+    {
+      id: 27,
+      title: "Team Workshop",
+      category: "Events",
+      image: "event2.jpg",
+      description: "Our team during an immigration workshop"
+    },
+    {
+      id: 28,
+      title: "Australia Study Visa",
+      category: "Success Stories",
+      image: "novan.jpg",
+      description: "Client receiving their approved study permit for Australia"
+    },
+    {
+      id: 29,
+      title: "Canada Study Visa",
+      category: "Success Stories",
+      image: "karanveer.jpg",
+      description: "Client moving into their new home abroad"
+    },
+    {
+      id: 30,
+      title: "Canada Study Visa",
+      category: "Success Stories",
+      image: "jashan.webp",
+      description: "Client moving into their new home abroad"
+    },
+    {
+      id: 31,
+      title: "Canada Visitor Visa",
+      category: "Success Stories",
+      image: "jagmeet.webp",
+      description: "Client moving into their new home abroad"
+    },
+    {
+      id: 32,
+      title: "Canada Visitor Visa",
+      category: "Success Stories",
+      image: "surender.webp",
+      description: "Client moving into their new home abroad"
+    },
+    {
+      id: 33,
+      title: "Canada Visitor Visa",
+      category: "Success Stories",
+      image: "rajpal.webp",
+      description: "Client moving into their new home abroad"
+    },
+    {
+      id: 34,
+      title: "Canada Study & Visitor Visa",
+      category: "Success Stories",
+      image: "udham.jpg",
+      description: "Client moving into their new home abroad"
+    },
+    {
+      id: 35,
+      title: "Australia Lottery Visa",
+      category: "Success Stories",
+      image: "sparsh.jpg",
+      description: "Client moving into their new home abroad"
+    },
+    {
+      id: 36,
+      title: "Team Workshop",
+      category: "Events",
+      image: "event3.jpg",
+      description: "Our team during an immigration workshop"
+    },
+    {
+      id: 37,
+      title: "Team Workshop",
+      category: "Events",
+      image: "event4.jpg",
+      description: "Our team during an immigration workshop"
     }
   ];
 

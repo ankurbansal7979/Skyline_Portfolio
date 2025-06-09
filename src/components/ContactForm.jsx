@@ -57,8 +57,8 @@ const ContactForm = () => {
       // This is just a template - you'll need to set up EmailJS properly
       // For EmailJS to work, you need to create an account and set up a service and template
       await emailjs.send(
-        'YOUR_SERVICE_ID', // Replace with your EmailJS service ID
-        'YOUR_TEMPLATE_ID', // Replace with your EmailJS template ID
+        'service_63a4k2p', // Replace with your EmailJS service ID
+        'template_pvxhmgq', // Replace with your EmailJS template ID
         {
           to_email: 'theskyline0017@gmail.com',
           from_name: formData.name,
@@ -67,7 +67,7 @@ const ContactForm = () => {
           service: formData.service,
           message: formData.message,
         },
-        'YOUR_USER_ID' // Replace with your EmailJS user ID
+        'ZqzTLlMtNh_hgB3RK' // Replace with your EmailJS user ID
       );
       
       setStatus('success');
