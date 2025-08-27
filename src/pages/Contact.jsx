@@ -165,7 +165,7 @@ const Contact = () => {
               transition={{ duration: 0.5, delay: 0.1 }}
               viewport={{ once: true }}
             >
-              Visit us at our office in Toronto
+              Visit us at our office in Sirsa
             </motion.p>
           </div>
           
@@ -181,7 +181,7 @@ const Contact = () => {
   <div className="text-center max-w-4xl">
     <MapPin className="w-12 h-12 text-primary-600 mx-auto mb-3" />
     <p className="text-slate-700 mb-6">
-      123 Immigration Street, Suite 101, Toronto, ON, Canada
+      Opp Sardar Ji Malai Chaap Wale, Near Kisan Chowk, Huda Road, Sirsa
     </p>
     
     {/* Map Embed */}
